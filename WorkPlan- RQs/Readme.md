@@ -14,7 +14,17 @@ _This markdown document explains the dataset analysis - Storm Event data  with r
 
 ## 3. Project Timeline
 
+      Work Plan & RQs         Week 5 
+      Data Cleaning           Week 9 
+      Progress Meeting        Week 9 
+      Script                  Week 11 
+      Plot                    Week 12
+      Audience Persona        Week 14 
+      Project Presentation    Week 15 
+      Git Repository          Week 15 
+
 ## 4. Project Effort Allocation
+
       Research Question- 
       Project Timeline-
       Target Audience-
