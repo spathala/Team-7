@@ -1,9 +1,12 @@
 
-1. ## Research Question
+## 1. Research Question
 ..........................................................
-2. ## Project Timeline
+
+## 2. Project Timeline
 ..........................................................
-3. ## Project Effort Allocation
+
+## 3. Project Effort Allocation
 ..........................................................
-4. ##Target Audience
+
+## 4. Target Audience
 ..........................................................
