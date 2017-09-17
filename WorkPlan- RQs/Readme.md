@@ -9,7 +9,10 @@ _This markdown document explains the dataset analysis - Storm Event data  with r
 ..........................................................
 
 ## 3. Project Effort Allocation
-..........................................................
+      Research Question- 
+      Project Timeline-
+      Target Audience-
+      Ghantt Chart- Pradeep Pal
 
 ## 4. Target Audience
 ..........................................................
