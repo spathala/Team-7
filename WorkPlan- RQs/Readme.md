@@ -11,10 +11,8 @@ This document includes:-
 ## 1. Introduction of StromEvent Data set
 
 ## 2. Draft Research Question
-..........................................................
 
 ## 3. Project Timeline
-..........................................................
 
 ## 4. Project Effort Allocation
       Research Question- 
@@ -23,4 +21,4 @@ This document includes:-
       Ghantt Chart- Pradeep Pal
 
 ## 5. Target Audience
-..........................................................
+
