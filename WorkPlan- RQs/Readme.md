@@ -10,6 +10,8 @@ _This markdown document explains the dataset analysis - Storm Event data  with r
 
 ## 1. Introduction of StromEvent Data set
 
+This data set is retrieved from NCEI (National Centers for Environmental Information) for Storm Events, it contains various types of storm reports searchable by state, county, date, and event type from 1950 to the present. Data are also available in comma-separated value (CSV) files, as entered by NOAA's National Weather Service (NWS). 
+
 ## 2. Draft Research Question
 
 ## 3. Project Timeline
